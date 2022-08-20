@@ -10,4 +10,4 @@ On Ending ... </br>
 ![onending](https://user-images.githubusercontent.com/97237040/185758070-479263eb-c2fa-4c20-942c-7c1a2aae712a.png)
 </br>
 </br>
-Game link to Play & Refresh to restart the game
+Game link to Play & Refresh to restart the game - https://ryujin-sama.github.io/First-Shooting-Game-Js/
