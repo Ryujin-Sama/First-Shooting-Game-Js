@@ -118,7 +118,7 @@ class Explosion {
 
 function drawGameOver(){
   ctx.textAlign = 'center';
-  ctx.fillStyle = 'black';
+  ctx.fillStyle = 'grey';
   ctx.fillText('GAME OVER, You Killed ' + score  + ' Ravens', canvas.width/2, canvas.height/2 + 5);
   ctx.textAlign = 'center';
   ctx.fillStyle = 'white';
